@@ -8,6 +8,8 @@ public class AppiumTest {
 	public void Automation()
 	{
 		System.out.println("Appium");
+		System.out.println("Appium1");
+		System.out.println("Appium2");
 	}
 	
 	@Test
